@@ -15,7 +15,7 @@ There's two more file auxiliary file from the data downloaded
 
 The row variables are the subject and the activity label. The subject is scoped between 1 and 30, each number denotes a volunteer; The activity label presents six variables (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING and LAYING).
 
-The column variables are signs colected on activities like: *tBodyAcc-XYZ, tGravityAcc-XYZ, tBodyAccJerk-XYZ, tBodyAccMag and others*;    estimated with statistic metrics: *mean() "Mean value", std() "Standard deviation", mad() "Median absolute deviation", max() "Largest value in array" and others*.
+The column variables are signs colected on activities like *tBodyAcc-XYZ, tGravityAcc-XYZ, tBodyAccJerk-XYZ, tBodyAccMag and others* estimated with statistic metrics *mean() "Mean value", std() "Standard deviation", mad() "Median absolute deviation", max() "Largest value in array" and others*.
 
 To the tidy data the only statistic metrics important are the mean and the standard deviation.
 
