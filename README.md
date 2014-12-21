@@ -1,7 +1,7 @@
 ==============================================================
-#Course Project - module Getting and Cleaning Data from Coursera
-#Author: Rafael de Souza Toledo
-#Date: 12/21/2014
+## Course Project - module Getting and Cleaning Data from Coursera
+## Author: Rafael de Souza Toledo
+## Date: 12/21/2014
 ==============================================================
 
 The project goal is create a tidy data with the average of each variable for each activity and each subject of the specific [dataset] (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip), which is explained at [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
